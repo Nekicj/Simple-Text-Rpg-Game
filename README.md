@@ -36,8 +36,8 @@ Make sure you have Python 3.6+ installed on your system. You can download it fro
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/rpgame.git
-   cd rpgame
+   git clone https://github.com/Nekicj/Simple-Text-Rpg-Game.git
+   cd Simple-Text-Rpg-Game
    ```
 
 2. Install required dependencies:
@@ -176,40 +176,14 @@ Examples of quests include:
 - Defeat the dark mage who is corrupting the land
 - Explore ancient ruins and defeat the hidden evil
 
-## 📸 Screenshots
-
-<div align="center">
-  <p><i>Screenshots coming soon!</i></p>
-  <!-- 
-  <img src="screenshots/combat.png" alt="Combat Screenshot" width="400">
-  <img src="screenshots/inventory.png" alt="Inventory Screenshot" width="400">
-  <img src="screenshots/village.png" alt="Village Screenshot" width="400">
-  -->
-</div>
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve RPGame, feel free to fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👨‍💻 Credits
 
-- **Game Developer**: [Your Name]
+- **Game Developer**: [DavidPigger]
 - **ASCII Art**: Generated using pyfiglet and custom designs
-- **Special Thanks**: To all contributors and testers
 
 ## 📧 Contact
 
 - GitHub: [@Nekicj](https://github.com/Nekicj)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [tolegenovdavid54@gmail.com](mailto:tolegenovdavid54@gmail.com)
 
----
-
-<div align="center">
-  <p>Made with ❤️ and Python</p>
-  <p>© 2025 RPGame</p>
-</div>
 
