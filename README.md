@@ -1,8 +1,7 @@
 # 🎮 RPGame - Text-Based Fantasy Adventure
 
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.6%2B-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 <div align="center">
   <img src="assets/title_banner.png" alt="RPGame Banner" width="600">
