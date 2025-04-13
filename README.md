@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.6%2B-brightgreen.svg)
 
 <div align="center">
-  <img src="assets/title_banner.png" alt="RPGame Banner" width="600">
   <p><i>A rich text-based RPG adventure with colorful terminal graphics</i></p>
 </div>
 
