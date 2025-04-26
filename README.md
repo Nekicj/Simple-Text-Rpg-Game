@@ -5,7 +5,7 @@
 
 <div align="center">
   <p><i>A rich text-based RPG adventure with colorful terminal graphics</i></p>
-  ![main](./images/main.jpeg)
+  <img src="./images/main.jpeg" alt="main" />
 </div>
 
 ## 📖 Overview
