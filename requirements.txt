@@ -1,6 +1,7 @@
+colorama==0.4.6
 pyfiglet==0.8.post1
+pynput==1.7.6
+setuptools==79.0.1
+six==1.17.0
 termcolor==2.3.0
 tqdm==4.66.1
-colorama==0.4.6
-pynput==1.7.6
-
